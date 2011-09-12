@@ -1,0 +1,21 @@
+= JSON Utilities
+
+== Description
+
+Non yet.
+
+== Download
+
+The homepage of this library is located at
+
+* http://flori.github.com/json-utils
+
+== Author
+
+Florian Frank mailto:flori@ping.de
+
+== License
+
+Ruby License, see the COPYING file included in the source distribution. The
+Ruby License includes the GNU General Public License (GPL), Version 2, so see
+the file GPL as well.
